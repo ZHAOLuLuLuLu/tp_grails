@@ -1,0 +1,6 @@
+#Mon, 22 Oct 2018 16:24:05 +0200
+
+info.app.version=0.1
+info.app.name=TP2
+grails.env=development
+info.app.grailsVersion=3.3.8
